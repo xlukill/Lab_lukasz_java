@@ -1,0 +1,5 @@
+Aplikacja dotyczycy prostego procesu rezerwacji przez użytkownika.
+Użytkownik może się zarejestrować oraz zalogować z głównego panelu.
+Dodatkowo użytkownik z loginem "admin" ma zakładkę, która umożliwia dodawać nowe terminy lotu.
+Jako użytkownik można podejrzeć terminy lotów oraz ich zawartość.
+Rezerwacja lotów jest w trakcie implementacji.
